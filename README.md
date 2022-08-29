@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello
 
 This project is to showcase the abilities of Stanford CoreNLP.
 
 There are two APIs
 1. /run - To upload a file to a repository.
-2. //getFile/{fileCode} - To retrieve any file from repo and perform the text manipulation and basic mining tasks.
+2. /getFile/{fileCode} - To retrieve any file from repo and perform the text manipulation and basic mining tasks.
 
 The code reads the file text.txt and store the the output in output.txt. For now both the files are present in resources folder.
 
